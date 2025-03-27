@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "878015482310",
+    "project_id": "simara-app-28443",
+    "storage_bucket": "simara-app-28443.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878015482310:android:a02236e5d5fa20d14b8ac7",
+        "android_client_info": {
+          "package_name": "com.simara.simara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878015482310-1atr2srvnh4eh2198kq8ngotkk9ed1qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUYgwUzQiv4m14eXfZnzviXKABbOUywNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878015482310-1atr2srvnh4eh2198kq8ngotkk9ed1qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
